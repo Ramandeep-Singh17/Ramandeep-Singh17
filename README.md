@@ -1,14 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=250&section=header&text=Ramandeep%20Singh&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Engineer%20•%20Full%20Stack%20Developer%20•%20Java%20DSA%20Enthusiast&descAlignY=55"/>
+# Ramandeep Singh
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=6C63FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Building+AI+Projects;Full+Stack+MERN+Developer;Solving+%26+Learning+DSA+in+Java"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=00C9A7&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Building+AI+Projects;Full+Stack+MERN+Developer;Solving+DSA+in+Java" />
 
 </div>
 
@@ -16,20 +10,20 @@
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech in **Artificial Intelligence & Machine Learning** (NIET – 2027)
+🎓 B.Tech in **Artificial Intelligence & Machine Learning (NIET 2027)**  
 
-I enjoy building **real-world AI applications**, scalable backend systems and interactive web apps.
+I enjoy building **real-world AI systems, ML models, and full-stack applications**.
 
-Currently focused on:
+Currently focusing on:
 
-- Machine Learning & Deep Learning  
-- AI-based Applications  
-- MERN Stack Development  
-- Data Structures & Algorithms in Java  
+- Machine Learning
+- AI Applications
+- MERN Stack Development
+- Data Structures & Algorithms in Java
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -57,9 +51,9 @@ Currently focused on:
 
 ### 🎬 Movona – Movie Recommendation System
 
-AI-based movie recommender using similarity algorithms.
+AI movie recommender using cosine similarity.
 
-🔗 Live App  
+🔗 Live Demo  
 https://movona-ramandeep.streamlit.app
 
 ---
@@ -68,17 +62,20 @@ https://movona-ramandeep.streamlit.app
 
 Machine learning model predicting heart disease risk.
 
+🔗 Live Demo  
+https://ramandeep-singh-heart-disease-predictor.streamlit.app/
+
 ---
 
 ### 🧠 LSTM Next Word Predictor
 
-Deep learning NLP project predicting next words using LSTM.
+Deep learning NLP model predicting next words.
 
 ---
 
 ### 🤖 Offline ChatGPT (Mistral LLM)
 
-Local AI chatbot built using Mistral with transfer learning.
+Local AI chatbot built using Mistral.
 
 ---
 
@@ -86,7 +83,7 @@ Local AI chatbot built using Mistral with transfer learning.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,express,postgresql,git,github,docker&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,express,postgresql,git,github,docker&perline=6" />
 
 </p>
 
@@ -100,7 +97,7 @@ Local AI chatbot built using Mistral with transfer learning.
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -114,7 +111,7 @@ Local AI chatbot built using Mistral with transfer learning.
 
 # 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramandeep-Singh17&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramandeep-Singh17&theme=react-dark&hide_border=true&area=true"/>
 
 ---
 
@@ -128,21 +125,13 @@ Local AI chatbot built using Mistral with transfer learning.
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Ramandeep-Singh17&theme=radical&no-frame=true&column=7"/>
 
 </p>
-
----
-
-# 🐍 Contribution Snake
-
-<picture>
-  <img src="https://raw.githubusercontent.com/Ramandeep-Singh17/Ramandeep-Singh17/output/github-contribution-grid-snake.svg"/>
-</picture>
 
 ---
 
