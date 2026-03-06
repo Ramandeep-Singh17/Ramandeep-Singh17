@@ -16,7 +16,7 @@
 
 I enjoy building **AI applications, machine learning models and full-stack web applications.**
 
-Current focus:
+Currently focusing on:
 
 - Machine Learning  
 - AI Applications  
@@ -95,16 +95,6 @@ NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn
 ## 📈 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramandeep-Singh17&theme=tokyo-night"/>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ramandeep-Singh17&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</p>
 
 ---
 
