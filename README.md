@@ -53,10 +53,11 @@ Currently focusing on:
 
 | Project | Description | Link |
 |------|-------------|------|
-| 🎬 Movona Movie Recommender | AI movie recommendation system | https://movona-ramandeep.streamlit.app |
-| ❤️ Heart Disease Predictor | ML model predicting heart disease | https://ramandeep-singh-heart-disease-predictor.streamlit.app |
-| 🧠 LSTM Next Word Predictor | NLP deep learning project | GitHub |
-| 🤖 Offline ChatGPT (Mistral) | Local AI chatbot | GitHub |
+| 🗄️ Text-to-SQL RAG Chatbot | GenAI app — query any MySQL DB in plain English | [Live Demo](https://ramandeep-text-to-sql.streamlit.app) |
+| 🎬 Movona Movie Recommender | AI movie recommendation system | [Live Demo](https://movona-ramandeep.streamlit.app) |
+| ❤️ Heart Disease Predictor | ML model predicting heart disease | [Live Demo](https://ramandeep-singh-heart-disease-predictor.streamlit.app) |
+| 🧠 LSTM Next Word Predictor | NLP deep learning project | [GitHub](https://github.com/Ramandeep-Singh17) |
+| 🤖 Offline ChatGPT (Mistral) | Local AI chatbot | [GitHub](https://github.com/Ramandeep-Singh17) |
 
 ---
 
