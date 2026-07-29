@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:7f5af0,50:a78bfa,100:c4b5fd&text=Ramandeep%20Singh&fontAlign=50&fontAlignY=38&fontSize=60&desc=Machine%20Learning%20Engineer%20|%20MERN%20Developer%20|%20Java%20DSA&descAlignY=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:7f5af0,50:a78bfa,100:c4b5fd&text=Ramandeep%20Singh&fontAlign=50&fontAlignY=38&fontSize=60&desc=Machine%20Learning%20%7C%20GenAI%20%7C%20Full%20Stack%20Development&descAlignY=62"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&color=A78BFA&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Building+AI+Projects;Full+Stack+MERN+Developer;Solving+DSA+Problems+in+Java"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+End-to-End+ML+Applications;Exploring+GenAI+%26+RAG;Building+REST+APIs+with+FastAPI;Full+Stack+Web+Development;Solving+DSA+Problems+in+Java"/>
 
 <img src="https://komarev.com/ghpvc/?username=Ramandeep-Singh17&label=Profile%20Views&color=7f5af0&style=for-the-badge"/>
 
@@ -12,16 +12,20 @@
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech – **Artificial Intelligence & Machine Learning (NIET 2027)**  
+🎓 B.Tech — **Computer Science & Engineering (Artificial Intelligence & Machine Learning), NIET | 2027**
 
-I enjoy building **AI applications, machine learning models and full-stack web applications.**
+I enjoy building **end-to-end AI and Machine Learning applications** — from model development and experimentation to APIs, interactive interfaces, explainability, and deployment.
+
+Alongside AI/ML, I work with **full-stack web technologies** and practice **Data Structures & Algorithms in Java**.
 
 Currently focusing on:
 
-- Machine Learning  
-- AI Applications  
-- MERN Stack Development  
-- Data Structures & Algorithms in Java  
+- 🤖 Machine Learning & AI Applications
+- 🧠 Generative AI & RAG
+- 🔍 Explainable AI
+- ⚡ FastAPI & ML Model Deployment
+- 🌐 Full-Stack Development
+- ☕ Data Structures & Algorithms in Java
 
 ---
 
@@ -51,76 +55,46 @@ Currently focusing on:
 
 ## 🚀 Featured Projects
 
-| Project | Description | Link |
-|------|-------------|------|
-| 🗄️ Text-to-SQL RAG Chatbot | GenAI app — query any MySQL DB in plain English | [Live Demo](https://ramandeep-text-to-sql.streamlit.app) |
-| 🎬 Movona Movie Recommender | AI movie recommendation system | [Live Demo](https://movona-ramandeep.streamlit.app) |
-| ❤️ Heart Disease Predictor | ML model predicting heart disease | [Live Demo](https://ramandeep-singh-heart-disease-predictor.streamlit.app) |
-| 🧠 LSTM Next Word Predictor | NLP deep learning project | [GitHub](https://github.com/Ramandeep-Singh17) |
-| 🤖 Offline ChatGPT (Mistral) | Local AI chatbot | [GitHub](https://github.com/Ramandeep-Singh17) |
+| Project | Description | Tech | Links |
+|---|---|---|---|
+| 🏙️ **AirbnbIQ** | End-to-end Explainable ML application that predicts NYC Airbnb room types with class probabilities, confidence scores and SHAP-based explanations | FastAPI • Scikit-learn • SHAP • HTML/CSS/JS | [Live Demo](https://airbnbiq-by-ramandeep.onrender.com/) • [API Docs](https://airbnbiq.onrender.com/docs) • [GitHub](https://github.com/Ramandeep-Singh17/AirbnbIQ) |
+| 🗄️ **Text-to-SQL RAG Chatbot** | GenAI application that converts natural-language questions into SQL queries for MySQL databases using schema-aware retrieval | LangChain • LLaMA • MySQL • Streamlit | [Live Demo](https://ramandeep-text-to-sql.streamlit.app) |
+| 🎬 **Movona Movie Recommender** | Content-based recommendation system that suggests similar movies using cosine similarity and movie metadata | Python • Scikit-learn • TMDB API • Streamlit | [Live Demo](https://movona-ramandeep.streamlit.app) |
+| ❤️ **Heart Disease Predictor** | Machine Learning web application for predicting heart-disease risk from clinical features | Python • Scikit-learn • Streamlit | [Live Demo](https://ramandeep-singh-heart-disease-predictor.streamlit.app) |
+| 🧠 **LSTM Next Word Predictor** | Deep Learning NLP project for predicting the next word in a text sequence using an LSTM network | Python • TensorFlow/Keras • NLP | [GitHub](https://github.com/Ramandeep-Singh17) |
+| 🤖 **Offline ChatGPT (Mistral)** | Local LLM chatbot designed to run without relying on a cloud-hosted conversational model | Python • Mistral • LLM | [GitHub](https://github.com/Ramandeep-Singh17) |
 
 ---
 
-## 🛠 Tech Stack
+## ⭐ Latest Project — AirbnbIQ
 
-<p align="center">
+**AirbnbIQ** is an end-to-end **Explainable Machine Learning application** for NYC Airbnb listings.
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,express,postgresql,git,github,docker"/>
+Users enter details such as **location, price, minimum stay, reviews, host information, and availability**. The model predicts whether the listing is:
 
-</p>
+**🏠 Entire home/apt • 🚪 Private room • 🛏️ Shared room**
 
-Machine Learning Libraries  
+Along with the prediction, AirbnbIQ provides **class probabilities, prediction confidence, and SHAP-based explanations** showing which listing characteristics influenced the individual prediction.
 
-NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ramandeep-Singh17&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramandeep-Singh17&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramandeep-Singh17&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramandeep-Singh17&theme=tokyo-night"/>
-
----
-
-## 🧠 LeetCode Stats
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/RamandeepSingh17?theme=dark&font=baloo"/>
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Ramandeep-Singh17/Ramandeep-Singh17/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c4b5fd,100:7f5af0&height=120&section=footer"/>
-
-</div>
+```text
+User
+  │
+  ▼
+HTML / CSS / JavaScript
+  │
+  │ HTTPS / JSON
+  ▼
+FastAPI REST API
+  │
+  ▼
+Pydantic Validation
+  │
+  ▼
+Scikit-learn ML Pipeline
+  │
+  ├── Prediction + Probabilities
+  │
+  └── SHAP Explainability
+  │
+  ▼
+Interactive Result
