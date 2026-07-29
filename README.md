@@ -80,15 +80,15 @@ NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ramandeep-Singh17&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ramandeep-Singh17&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ramandeep's GitHub Stats"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramandeep-Singh17&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Ramandeep-Singh17&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramandeep-Singh17&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramandeep-Singh17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 </p>
 
