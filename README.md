@@ -51,8 +51,10 @@ Currently focusing on:
 
 ## 🚀 Featured Projects
 
+
 | Project | Description | Link |
 |------|-------------|------|
+| 🧠 **ResearchMind — Multi-Agent AI Research System** | Multi-agent AI research system that automates web search, source reading, structured report generation and critical review using LangChain, LangGraph, Groq GPT-OSS-120B, Tavily and Streamlit | [Live Demo](https://researchmind-by-raman.streamlit.app/) • [GitHub](https://github.com/Ramandeep-Singh17/ResearchMind) |
 | 🏙️ **AirbnbIQ** | Explainable ML app that predicts NYC Airbnb room types with confidence scores, class probabilities & SHAP explanations using a FastAPI backend and custom HTML/CSS/JS frontend | [Live Demo](https://airbnbiq-by-ramandeep.onrender.com/) • [GitHub](https://github.com/Ramandeep-Singh17/AirbnbIQ) |
 | 🗄️ Text-to-SQL RAG Chatbot | GenAI app — query any MySQL DB in plain English | [Live Demo](https://ramandeep-text-to-sql.streamlit.app) |
 | 🎬 Movona Movie Recommender | AI movie recommendation system | [Live Demo](https://movona-ramandeep.streamlit.app) |
