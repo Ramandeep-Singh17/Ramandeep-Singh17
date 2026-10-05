@@ -51,16 +51,16 @@ Currently focusing on:
 
 ## 🚀 Featured Projects
 
-
 | Project | Description | Link |
-|------|-------------|------|
-| 🧠 **ResearchMind — Multi-Agent AI Research System** | Multi-agent AI research system that automates web search, source reading, structured report generation and critical review using LangChain, LangGraph, Groq GPT-OSS-120B, Tavily and Streamlit | [Live Demo](https://researchmind-by-raman.streamlit.app/) • [GitHub](https://github.com/Ramandeep-Singh17/ResearchMind) |
-| 🏙️ **AirbnbIQ** | Explainable ML app that predicts NYC Airbnb room types with confidence scores, class probabilities & SHAP explanations using a FastAPI backend and custom HTML/CSS/JS frontend | [Live Demo](https://airbnbiq-by-ramandeep.onrender.com/) • [GitHub](https://github.com/Ramandeep-Singh17/AirbnbIQ) |
-| 🗄️ Text-to-SQL RAG Chatbot | GenAI app — query any MySQL DB in plain English | [Live Demo](https://ramandeep-text-to-sql.streamlit.app) |
-| 🎬 Movona Movie Recommender | AI movie recommendation system | [Live Demo](https://movona-ramandeep.streamlit.app) |
-| ❤️ Heart Disease Predictor | ML model predicting heart disease | [Live Demo](https://ramandeep-singh-heart-disease-predictor.streamlit.app) |
-| 🧠 LSTM Next Word Predictor | NLP deep learning project | [GitHub](https://github.com/Ramandeep-Singh17) |
-| 🤖 Offline ChatGPT (Mistral) | Local AI chatbot | [GitHub](https://github.com/Ramandeep-Singh17) |
+|---|---|---|
+| 🎙️ **TalkTrace — AI Meeting Intelligence Assistant** | AI meeting intelligence platform for transcription, summarisation, action items, key decisions, questions & grounded RAG-based Q&A using Whisper, Sarvam AI, Groq, LangChain and ChromaDB | [Live Demo](https://talktrace-by-raman.streamlit.app/) • [GitHub](https://github.com/Ramandeep-Singh17/TalkTrace) |
+| 🧠 **ResearchMind — Multi-Agent AI Research System** | Multi-agent AI research system that automates web search, source reading, structured report generation and critical review using LangChain, LangGraph, Groq GPT-OSS-120B, Tavily and Streamlit | [Live Demo](#) • [GitHub](#) |
+| 🏢 **AirbnbIQ** | Explainable ML app that predicts NYC Airbnb room types with confidence scores, class probabilities & SHAP explanations using a FastAPI backend and custom HTML/CSS/JS frontend | [Live Demo](#) • [GitHub](#) |
+| 🧮 **Text-to-SQL RAG Chatbot** | GenAI app — query any MySQL DB in plain English | [Live Demo](#) |
+| 🎬 **Movona Movie Recommender** | AI movie recommendation system | [Live Demo](#) |
+| 💗 **Heart Disease Predictor** | ML model predicting heart disease | [Live Demo](#) |
+| 🧠 **LSTM Next Word Predictor** | NLP deep learning project | [GitHub](#) |
+| 🤖 **Offline ChatGPT (Mistral)** | Local AI chatbot | [GitHub](#) |
 
 ---
 
