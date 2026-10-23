@@ -56,6 +56,7 @@ Currently focusing on:
 | 🎙️ **TalkTrace — AI Meeting Intelligence Assistant** | AI meeting intelligence platform for transcription, summarisation, action items, key decisions, questions & grounded RAG-based Q&A using Whisper, Sarvam AI, Groq, LangChain and ChromaDB | [Live Demo](https://talktrace-by-raman.streamlit.app/) • [GitHub](https://github.com/Ramandeep-Singh17/TalkTrace) |
 | 🧠 **ResearchMind — Multi-Agent AI Research System** | Multi-agent AI research system that automates web search, source reading, structured report generation and critical review using LangChain, LangGraph, Groq GPT-OSS-120B, Tavily and Streamlit | [Live Demo](#) • [GitHub](#) |
 | 🏢 **AirbnbIQ** | Explainable ML app that predicts NYC Airbnb room types with confidence scores, class probabilities & SHAP explanations using a FastAPI backend and custom HTML/CSS/JS frontend | [Live Demo](#) • [GitHub](#) |
+| 🧠 **Brain Tumor Explainable AI** | Deep learning MRI classification for Glioma, Meningioma, No Tumor, and Pituitary, with Grad-CAM, SHAP, and LIME explainability | [Live Demo](https://brain-tumour-explainableai.streamlit.app/) • [GitHub](https://github.com/Ramandeep-Singh17/College_Research_Project) |
 | 🧮 **Text-to-SQL RAG Chatbot** | GenAI app — query any MySQL DB in plain English | [Live Demo](#) |
 | 🎬 **Movona Movie Recommender** | AI movie recommendation system | [Live Demo](#) |
 | 💗 **Heart Disease Predictor** | ML model predicting heart disease | [Live Demo](#) |
